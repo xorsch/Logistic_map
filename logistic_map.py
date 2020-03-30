@@ -1,5 +1,6 @@
 # Modificació
-#
+# 
+
 import numpy as np
 import time
 from PIL import Image
@@ -55,3 +56,5 @@ for ny in range(height):
 
 ts = time.gmtime()
 image.save(f'{(outputfile)}_{(time.strftime("%y%m%d_%H%M", ts))}.png')    
+
+# Pujat a GitHub
