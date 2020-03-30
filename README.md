@@ -1,5 +1,7 @@
 # Logistic_map
 
+Usa numpy
+
 Cada fitxer python conté una versió diferent:
 
 logistic_map.py és la versió més senzilla

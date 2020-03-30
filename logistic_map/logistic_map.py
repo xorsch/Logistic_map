@@ -12,9 +12,9 @@ width  = 1920
 height = 1080
 
 min_x = 3.54
-max_x = 3.84
-size_array = 1920
-iterations = 1920*5
+max_x = 3.80
+size_array = 1920 * 5
+iterations = 1920 * 5
 
 
 space_array  = np.arange( min_x, max_x, (max_x-min_x)/size_array, dtype='float64' )
